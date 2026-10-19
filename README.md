@@ -7,7 +7,7 @@ My goal: **replace cloud AI with local AI** that runs on your own PC, private an
 
 | Project | What it is | Status |
 |---|---|---|
-| **Qwen 125B on a consumer PC** | Recipe + tools to run Qwen3.8-Flash-Next 125B (full MoE, 2-bit) on 16 GB VRAM + 32 GB RAM at ~35–39 tok/s with llama.cpp, plus a proxy that turns on long reasoning only after real failures | publishing soon |
+| **[Qwen 125B on a consumer PC](https://github.com/alessandro-noe/qwen-consumer-pc)** | Recipe + tools to run Qwen3.8-Flash-Next 125B (full MoE, 2-bit) on 16 GB VRAM + 32 GB RAM at ~35–39 tok/s with llama.cpp, plus a proxy that turns on long reasoning only after real failures | **published** |
 | **Noè** | Open agent platform (desktop app + engine): rules enforced in code, verified-only memory, self-improvement that applies a lesson only if its test passes, hand-off between agents and models | in development |
 
 **Principles**
